@@ -1,0 +1,2 @@
+- It has a precision of about 15 to 16 digits.
+- Double is the default floating point data type in C#.

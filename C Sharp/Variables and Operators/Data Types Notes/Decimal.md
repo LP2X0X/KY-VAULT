@@ -1,0 +1,3 @@
+- Decimal stores a decimal number but has a smaller range than float and double.
+- However, it has a much *greater precision* of approximately 28-29 digits.
+- Suffix "m" to change to decimal.

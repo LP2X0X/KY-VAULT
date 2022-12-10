@@ -8,6 +8,9 @@ ___
 
 %% Begin Waypoint %%
 - **[[Basic Structure]]**
+	- [[Comment]]
 	- [[Directive]]
+	- [[Main Method]]
+	- [[Namespace]]
 
 %% End Waypoint %%

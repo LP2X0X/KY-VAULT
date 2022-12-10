@@ -1,0 +1,2 @@
+- The Main() method is the entry point of all C# console applications.
+- Whenever a console application is started, the Main() method is the first method to be called.

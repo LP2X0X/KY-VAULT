@@ -1,0 +1,1 @@
+- To add comments to our program, we type two forward slashes (//) in front of each line of comment.

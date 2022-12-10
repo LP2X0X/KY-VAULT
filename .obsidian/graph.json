@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path: C Sharp",
+      "query": "path:\"C Sharp\"",
       "color": {
         "a": 1,
         "rgb": 10879231
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1.00203943814155,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.599585829450484,
+  "centerStrength": 0.495813074014046,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.33966092932549075,
+  "linkDistance": 198,
+  "scale": 0.1113767731298161,
   "close": true
 }

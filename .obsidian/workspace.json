@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bdd1622af771e83f",
+        "id": "8d91cb0726a654c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf25e8179d75309",
+            "id": "651cbc2a5a6f242a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Basic Structure/Directive.md",
-                "mode": "source",
+                "file": "C Sharp/Array, String and List/Array, String and List.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4acfa79cb619534c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Sharp/Array, String and List/List.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Basic Structure/Directive.md",
+                "file": "C Sharp/Array, String and List/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Basic Structure/Directive.md"
+                "file": "C Sharp/Array, String and List/List.md"
               }
             }
           },
@@ -149,17 +162,17 @@
     "width": 333.5,
     "collapsed": true
   },
-  "active": "3bf25e8179d75309",
+  "active": "4acfa79cb619534c",
   "lastOpenFiles": [
-    "C Sharp/Basic Structure/Basic Structure.md",
-    "C Sharp/C Sharp.md",
-    "C Sharp/Basic Structure/Directive.md",
-    "C Sharp/C Sharp - Defenition.md",
-    "Glossary/Glossary.md",
-    "Glossary/C Sharp.md",
-    "UML/UML.md",
-    "UML/UML - Definition.md",
-    "Glossary/MVVM.md",
-    "Untitled.md"
+    "C Sharp/Array, String and List/Array.md",
+    "C Sharp/Array, String and List/List.md",
+    "C Sharp/Array, String and List/Array, String and List.md",
+    "C Sharp/Variables and Operators/Data Types Notes/Data Types Notes.md",
+    "C Sharp/Array, String and List/String.md",
+    "C Sharp/Variables and Operators/Variables and Operators.md",
+    "C Sharp/Variables and Operators/Type Casting.md",
+    "C Sharp/Variables and Operators/Data Types Notes/Float.md",
+    "C Sharp/Variables and Operators/Data Types Notes/Double.md",
+    "C Sharp/Variables and Operators/Data Types Notes/Decimal.md"
   ]
 }

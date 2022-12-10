@@ -8,7 +8,9 @@ ___
 
 %% Begin Waypoint %%
 - **[[C Sharp]]**
+	- **[[Array, String and List]]**
 	- **[[Basic Structure]]**
 	- [[C Sharp - Defenition]]
+	- **[[Variables and Operators]]**
 
 %% End Waypoint %%

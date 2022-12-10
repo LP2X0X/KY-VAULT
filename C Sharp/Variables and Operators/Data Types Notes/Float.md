@@ -1,0 +1,2 @@
+- It has a precision of approximately 7 digits.
+- Suffix "f" to change to float.

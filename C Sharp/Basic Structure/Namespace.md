@@ -1,0 +1,3 @@
+- A namespace is simply a grouping of related code elements.
+- One advantage of declaring namespaces is that it prevents naming conflicts.
+- Two or more code elements can have the same name as long as they belong to different namespaces.

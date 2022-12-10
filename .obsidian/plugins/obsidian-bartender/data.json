@@ -23,8 +23,10 @@
       "Moire Algorithm",
       "UML",
       "C Sharp",
+      "Array, String and List",
       "Glossary",
-      "Pictures & PDF"
+      "Pictures & PDF",
+      "README.md"
     ],
     "Definitions": [
       "Definitions/Label.md",
@@ -107,6 +109,13 @@
       "UML/UML Diagram Type/Behaviorl Diagrams/Use Case Diagram.md",
       "UML/UML Diagram Type/Behaviorl Diagrams/Interaction Diagrams",
       "UML/UML Diagram Type/Behaviorl Diagrams/Sequence Diagram.md"
+    ],
+    "C Sharp": [
+      "C Sharp/C Sharp - Defenition.md",
+      "C Sharp/Basic Structure",
+      "C Sharp/Variables and Operators",
+      "C Sharp/Data Types Notes",
+      "C Sharp/C Sharp.md"
     ]
   },
   "actionBarOrder": {},
