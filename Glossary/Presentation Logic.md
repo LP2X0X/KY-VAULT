@@ -1,0 +1,1 @@
+$\quad$Presentation Logic is concerned with how business objects are displayed to users of the software, e.g. the choice between a pop-up screen and a drop-down menu.

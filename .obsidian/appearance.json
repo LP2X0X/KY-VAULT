@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "textFontFamily": "Segoe UI,Input,Calibri,Cambria,Courier New",
+  "enabledCssSnippets": [
+    "appearance"
+  ],
+  "accentColor": "#89cff0",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "baseFontSize": 15,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Input"
+}

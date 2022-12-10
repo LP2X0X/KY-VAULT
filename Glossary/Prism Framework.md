@@ -1,0 +1,3 @@
+- Prism is the Microsoft Patterns and Practices Team official guidance for building "composite applications" in WPF and Silverlight. Prism is a collection of libraries to aid in implementing enterprise applications following Microsoft recommended best practice design and architectural patterns.
+- It's intended to provide guidance on the best practices for building large scale applications which are flexible in terms of development and maintainability.
+- This includes guidance on dependency injection (via Unity or MEF), layout (including using [[MVVM]]), composite event handling, etc.

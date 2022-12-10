@@ -1,0 +1,1 @@
+$\quad$AOI (Automated optical inspection) is an automated visual inspection of printed circuit board (PCB) (or LCD, transistor) manufacture where a camera autonomously scans the device under test for both catastrophic failure (e.g. missing component) and quality defects (e.g. fillet size or shape or component skew).

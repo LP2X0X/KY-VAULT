@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "13f1723722e797ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd1622af771e83f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf25e8179d75309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Sharp/Basic Structure/Directive.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "869f2c35b23a0193",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cbdcdd901d76793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d85604355e1efd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "ec5f975d48ca29f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd39f9a8aed4e9f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7491882444cf49f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "10d7bac1804ebfe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08102b44aa32db76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Sharp/Basic Structure/Directive.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed1ff0f745f98fae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c80c9397cc44481",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C Sharp/Basic Structure/Directive.md"
+              }
+            }
+          },
+          {
+            "id": "8af6e88a03554aba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b6ec4a0aa80d4ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b52ea97419a5f208",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5,
+    "collapsed": true
+  },
+  "active": "3bf25e8179d75309",
+  "lastOpenFiles": [
+    "C Sharp/Basic Structure/Basic Structure.md",
+    "C Sharp/C Sharp.md",
+    "C Sharp/Basic Structure/Directive.md",
+    "C Sharp/C Sharp - Defenition.md",
+    "Glossary/Glossary.md",
+    "Glossary/C Sharp.md",
+    "UML/UML.md",
+    "UML/UML - Definition.md",
+    "Glossary/MVVM.md",
+    "Untitled.md"
+  ]
+}

@@ -1,0 +1,1 @@
+$\quad$An Architectural Pattern is a general, reusable solution to a commonly occurring problem in [[Software Architecture]] within a given context.

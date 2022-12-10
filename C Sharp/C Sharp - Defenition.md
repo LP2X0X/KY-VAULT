@@ -1,0 +1,1 @@
+C#, pronounced as C Sharp, is an object-oriented programming language developed by Microsoft in the early 2000s.

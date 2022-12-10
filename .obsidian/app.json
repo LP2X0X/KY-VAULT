@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "vimMode": true,
+  "showLineNumber": true,
+  "showFrontmatter": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "fileSortOrder": "custom",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Pictures & PDF",
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "spellcheck": true,
+  "showInlineTitle": false
+}
