@@ -1,0 +1,1 @@
+Camel Case is a way to separate the words in a phrase by making the **first letter of each word capitalized and not using spaces, except the first letter of first word.**

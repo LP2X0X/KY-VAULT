@@ -1,0 +1,2 @@
+A Field is a variable of any type that is declared directly in a class or struct and store actual data. Fields are members of their containing type.
+Field is just like a variable, but defined on the <u>class level</u> instead of the method level.

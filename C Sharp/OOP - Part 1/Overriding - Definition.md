@@ -1,0 +1,1 @@
+Overriding a method simply means writing our own version of the method.

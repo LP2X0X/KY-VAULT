@@ -112,10 +112,22 @@
     ],
     "C Sharp": [
       "C Sharp/C Sharp - Defenition.md",
+      "C Sharp/Read() vs ReadLine().md",
+      "C Sharp/Convert.md",
+      "C Sharp/Foreach Loop.md",
+      "C Sharp/String Interpolation.md",
       "C Sharp/Basic Structure",
       "C Sharp/Variables and Operators",
-      "C Sharp/Data Types Notes",
-      "C Sharp/C Sharp.md"
+      "C Sharp/C Sharp.md",
+      "C Sharp/Array, String and List",
+      "C Sharp/OOP"
+    ],
+    "C Sharp/Array, String and List": [
+      "C Sharp/Array, String and List/Array, String and List.md",
+      "C Sharp/Array, String and List/Array.md",
+      "C Sharp/Array, String and List/String.md",
+      "C Sharp/Array, String and List/List.md",
+      "C Sharp/Array, String and List/Untitled.md"
     ]
   },
   "actionBarOrder": {},

@@ -1,0 +1,2 @@
+Encapsulation enables an object to hide data and behavior from other classes that do not need to know about them.
+This makes it easier for us to make changes to our code in future if necessary and prevent the fields from being corrupted.

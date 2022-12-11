@@ -1,0 +1,1 @@
+The *Signature* of a method refers to the name of the method and the parameters that it has.

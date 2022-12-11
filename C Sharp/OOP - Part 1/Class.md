@@ -1,0 +1,2 @@
+- It is common practice to use PascalCasing when naming our classes.
+- Contents of a class include constructors, destructors, constants, fields, methods, properties, indexers, operators, events, delegates, interfaces, structs and other classes.

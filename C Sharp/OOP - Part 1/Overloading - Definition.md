@@ -1,0 +1,1 @@
+In C# (and most other languages), you can create two methods of the same name as long as they have different signatures. This is known as *Overloading*.

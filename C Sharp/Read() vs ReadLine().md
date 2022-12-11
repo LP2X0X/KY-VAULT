@@ -1,0 +1,1 @@
+The only difference between the Read() and ReadLine() is that Console.Read() is used to read only single character from the standard output device, while Console.ReadLine() is used to read a line or string from the standard output device.

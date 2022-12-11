@@ -4,35 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "8d91cb0726a654c5",
+        "id": "b8c397bd8ad2ce46",
         "type": "tabs",
         "children": [
           {
-            "id": "651cbc2a5a6f242a",
+            "id": "efb694142a477141",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Array, String and List/Array, String and List.md",
+                "file": "C Sharp/OOP - Part 1/OOP - Part 1.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "4acfa79cb619534c",
+            "id": "593ac3e09fbd298f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Array, String and List/List.md",
+                "file": "C Sharp/OOP - Part 1/OOP - Part 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "40ec8d3502c3620f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Glossary.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5c14dd3596188bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Value Type.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "82f861b1f09bcfe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Sharp/OOP - Part 1/OOP - Part 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3b82811505d309d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Glossary.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -82,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.0032539367676
   },
   "right": {
     "id": "7491882444cf49f2",
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Array, String and List/List.md",
+                "file": "Glossary/Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Array, String and List/List.md"
+                "file": "Glossary/Glossary.md"
               }
             }
           },
@@ -162,17 +210,17 @@
     "width": 333.5,
     "collapsed": true
   },
-  "active": "4acfa79cb619534c",
+  "active": "3b82811505d309d6",
   "lastOpenFiles": [
-    "C Sharp/Array, String and List/Array.md",
-    "C Sharp/Array, String and List/List.md",
-    "C Sharp/Array, String and List/Array, String and List.md",
-    "C Sharp/Variables and Operators/Data Types Notes/Data Types Notes.md",
-    "C Sharp/Array, String and List/String.md",
+    "C Sharp/OOP - Part 2/Inheritance.md",
+    "C Sharp/OOP - Part 1/Untitled.md",
+    "C Sharp/OOP - Part 1/OOP - Part 1.md",
+    "Glossary/Glossary.md",
+    "C Sharp/OOP - Part 1/Value Type & Reference Type Parameters.md",
+    "Glossary/Reference Type.md",
+    "Glossary/Value Type.md",
+    "C Sharp/OOP - Part 1/The dot operator.md",
     "C Sharp/Variables and Operators/Variables and Operators.md",
-    "C Sharp/Variables and Operators/Type Casting.md",
-    "C Sharp/Variables and Operators/Data Types Notes/Float.md",
-    "C Sharp/Variables and Operators/Data Types Notes/Double.md",
-    "C Sharp/Variables and Operators/Data Types Notes/Decimal.md"
+    "Glossary/C Sharp.md"
   ]
 }

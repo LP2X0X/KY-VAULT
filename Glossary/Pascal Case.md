@@ -1,0 +1,1 @@
+Pascal Case - or PascalCase - is a programming naming convention where **the first letter of each compound word in a variable is capitalized**.

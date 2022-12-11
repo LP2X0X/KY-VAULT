@@ -1,0 +1,5 @@
+When you pass in a *[[Value Type|value type]] variable*, any change made to the value of that variable is only **valid within the method** itself. Once the program exits the method, the change is no longer valid.
+On the other hand, if you pass in a *[[Reference Type|reference type]] variable*, any change made to the variable is **valid even after the method ends**.
+---
+When you pass a value-type variable from one method to another, the system creates a separate copy of a variable in another method. Therefore, If value got changed in the one method, it wouldn't affect the variable in another method.
+When you pass a reference type variable from one method to another, it doesn't create a new copy; instead, it passes the variable's address. So, If we change the value of a variable in a method, it will also be reflected in the calling method.
