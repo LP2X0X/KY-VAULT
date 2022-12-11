@@ -12,10 +12,12 @@ ___
 	- **[[Basic Structure]]**
 	- [[C Sharp - Defenition]]
 	- [[Convert]]
+	- **[[Enum and Struct]]**
+	- **[[File Handling]]**
 	- [[Foreach Loop]]
+	- **[[LINQ]]**
 	- **[[OOP - Part 1]]**
-	- **OOP - Part 2**
-		- [[Inheritance]]
+	- **[[OOP - Part 2]]**
 	- [[Read() vs ReadLine()]]
 	- [[String Interpolation]]
 	- **[[Variables and Operators]]**

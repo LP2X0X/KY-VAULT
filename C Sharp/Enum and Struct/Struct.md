@@ -1,0 +1,4 @@
+- A struct is similar to a class in many aspects. Like classes, they contain elements like properties, constructors, methods and fields and allow you to group related members into a single package so that you can manipulate them as a group.
+- There are two main differences between a struct and a class:
+	- Firstly, the struct data type does not support inheritance. Hence you cannot derive one struct from another. However, a struct can implement an interface.
+	- The second difference between structs and classes is that structs are value types while classes are reference types.

@@ -1,0 +1,3 @@
+- The using keyword here ensures that the Dispose() method is always called. 
+- The Dispose() method is a pre-written method in the System namespace that closes or releases any unmanaged resources such as files and streams once they are no longer needed.
+- When we use the using keyword, we ensure that the Dispose() method is called even if an exception occurs.
