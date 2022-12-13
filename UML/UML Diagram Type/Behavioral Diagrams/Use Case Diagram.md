@@ -9,13 +9,22 @@
 # Use Case Diagram Notations
 ![[02-use-case-diagram-notations.webp|center]]
 ## Actor
+![[03-use-case-diagram-notation-actor.webp|center]]
 - Actors are usually individuals involved with the system defined according to their roles. The actor can be a human or other external system.
+- Actor triggers use case(s).
+- Actor has a responsibility toward the system (inputs), and Actor has expectations from the system (outputs)
 ## Use Case
+![[04-use-case-diagram-notation-use-case.webp|center]]
 - A use case describes how actors uses a system to accomplish a particular goal. 
 - Use cases are typically initiated by a user to fulfill goals describing the activities and variants involved in attaining the goal.
+## Package
+![[package-inside.png|center]]
+- Package is a namespace used to group together elements that are semantically related and might change together. It is a general purpose mechanism to organize elements into groups to provide better structure for system model.
 ## Relationship
+![[05-use-case-diagram-notation-communication-link.webp|center]]
 - The relationships between and among the actors and the use cases.
 ## System Boundary
+![[06-use-case-diagram-notation-system-boundary.webp|center]]
 - The system boundary defines the system of interest in relation to the world around it.
 # Structuring Use Cases
 ## << include >> Use Case

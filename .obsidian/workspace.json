@@ -11,8 +11,12 @@
             "id": "3100bb67edf28e8b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/SPI.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Glossary/SPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Glossary/SPI.md"
+              }
             }
           },
           {
@@ -144,15 +151,15 @@
   },
   "active": "3100bb67edf28e8b",
   "lastOpenFiles": [
-    "C Sharp/File Handling/Reading a Text File.md",
-    "C Sharp/File Handling/File Handling.md",
-    "C Sharp/File Handling/Writing to a Text File.md",
-    "Untitled.md",
-    "C Sharp/File Handling/using Keyword.md",
-    "Glossary/u.md",
+    "Glossary/AOI.md",
     "Glossary/Glossary.md",
     "C Sharp/C Sharp.md",
-    "C Sharp/LINQ/LINQ.md",
-    "C Sharp/LINQ/LINQ  - Definition.md"
+    "C Sharp/File Handling/File Handling.md",
+    "UML/UML Diagram Type/Behavioral Diagrams/Use Case Diagram.md",
+    "UML/UML.md",
+    "C Sharp/File Handling/Reading a Text File.md",
+    "C Sharp/File Handling/Writing to a Text File.md",
+    "Untitled.md",
+    "C Sharp/File Handling/using Keyword.md"
   ]
 }
