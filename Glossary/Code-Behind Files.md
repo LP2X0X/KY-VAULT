@@ -1,0 +1,2 @@
+In a WPF Application project, every XAML file has an associated code-behind file. The code-behind has the same name as its parent file with the .cs (or .vb) extension added. Thus, the code-behind file for window1.xaml is window1.xaml.cs.
+The intention of the code-behind model is to allow a developer to separate the visual rendering of an application from the behavior of the application.

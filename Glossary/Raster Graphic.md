@@ -1,0 +1,3 @@
+ A raster graphic is an image that is stored as rectangle grid of pixels, and each pixel is assigned a color. Most graphic file formats that you are familiar with are just variations to this method. This includes formats such as GIF, JPEG, BMP, and PNG.
+ Raster graphics are also called bitmaps. (Don’t let the the BMP file format confuse you. The term bitmap is a general term describing a particular way to store image data.)
+ Raster graphics are inefficient data-wise. Another problem with raster images is that they do not resize well.

@@ -1,0 +1,3 @@
+- Just-in-time (JIT) compilation (also dynamic translation or run-time compilations) is a way of executing computer code that involves compilation during execution of a program (at run time) rather than before execution.
+- Just-In-Time compiler (JIT) is a part of CLR in _.NET_ which is responsible for managing the execution of _.NET_ programs regardless of any _.NET_ programming language. A language-specific compiler converts the source code to the intermediate language. This intermediate language is then converted into the machine code by the Just-In-Time (JIT) compiler. This machine code is specific to the computer environment that the JIT compiler runs on.
+![[Pasted image 20221216091305.png|center|750]]

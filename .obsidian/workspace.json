@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "3ceb963980722bda",
+        "id": "7b129562a3733e03",
         "type": "tabs",
         "children": [
           {
-            "id": "3100bb67edf28e8b",
+            "id": "fe0347da3599fe74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/SPI.md",
+                "file": "WPF/XAML/The Syntax of XAML/The Syntax of XAML.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9b0009bc62b9f2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WPF/XAML/The Syntax of XAML/xName Attribute.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "579e8df94b39940e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WPF/XAML/XAML.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a14bfc8a479eb2cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Glossary.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "241f7f38c64ece0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Code-Behind Files.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -56,14 +105,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "bd39f9a8aed4e9f3",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -85,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/SPI.md",
+                "file": "Glossary/Code-Behind Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/SPI.md"
+                "file": "Glossary/Code-Behind Files.md"
               }
             }
           },
@@ -142,24 +183,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
-  "active": "3100bb67edf28e8b",
+  "active": "241f7f38c64ece0e",
   "lastOpenFiles": [
-    "Glossary/AOI.md",
     "Glossary/Glossary.md",
-    "C Sharp/C Sharp.md",
-    "C Sharp/File Handling/File Handling.md",
-    "UML/UML Diagram Type/Behavioral Diagrams/Use Case Diagram.md",
-    "UML/UML.md",
-    "C Sharp/File Handling/Reading a Text File.md",
-    "C Sharp/File Handling/Writing to a Text File.md",
-    "Untitled.md",
-    "C Sharp/File Handling/using Keyword.md"
+    "Glossary/Access Modifier.md",
+    "Moire Algorithm/Moire Algorithm.md",
+    "README.md",
+    "Glossary/Code-Behind Files.md",
+    "WPF/XAML/The Syntax of XAML/The Syntax of XAML.md",
+    "WPF/XAML/The Syntax of XAML/Markup Extensions.md",
+    "WPF/XAML/XAML.md",
+    "WPF/WPF.md",
+    "WPF/XAML/The Syntax of XAML/Property Element Syntax.md"
   ]
 }

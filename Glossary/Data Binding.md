@@ -1,0 +1,2 @@
+Data binding is the process that establishes a connection between the app UI and the data it displays.
+The concept of databinding is quite simple; It allows you to 'bind' the data that is contained in an object to a visual control. That control 'displays' your data. When the user changes the value that is displayed by the control, the changes are automatically persisted to the underlying object. Vice versa, when someone changes the data in the object, the control can display the newest value.

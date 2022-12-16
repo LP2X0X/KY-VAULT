@@ -1,0 +1,2 @@
+Vector graphics are stored as geometries. The data structure for a vector image contains just enough information for the computer to draw the image.
+Making use of sequential commands or mathematical statements or programs which place lines or shapes in a 2-D or 3-D environment is referred to as Vector Graphics. Vector graphics are best for printing since it is composed of a series of mathematical curves. As a result vector graphics print crisply even when they are enlarged.

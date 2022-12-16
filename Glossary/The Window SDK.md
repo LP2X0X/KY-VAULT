@@ -1,0 +1,1 @@
+- Microsoft Windows SDK, and its predecessors Platform SDK, and .NET Framework SDK, are software development kits (SDKs) from Microsoft that contain documentation, header files, libraries, samples and tools required to develop applications for Microsoft Windows and .NET Framework.

@@ -1,0 +1,3 @@
+- Common Intermediate Language (CIL), formerly called Microsoft Intermediate Language (MSIL) or Intermediate Language (IL), is the intermediate language binary instruction set defined within the Common Language Infrastructure (CLI) specification.
+- During compilation of CLI programming languages, the source code is translated into CIL code rather than into platform-specific or processor-specific object code. CIL is a CPU- and platform-independent instruction set that can be executed in any environment supporting the Common Language Infrastructure, such as the .NET runtime on Windows.
+![[Pasted image 20221216091305.png|center|750]]

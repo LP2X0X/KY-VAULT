@@ -1,0 +1,3 @@
+- Extensible Application Markup Language (XAML) is a declarative XML-based language that Microsoft developed for initializing structured values and objects.
+- XAML is the language used for creating user interfaces in WPF.
+- You can create visible UI elements in the declarative XAML markup, and then separate the UI definition from the run-time logic by using code-behind files that are joined to the markup through partial class definitions.

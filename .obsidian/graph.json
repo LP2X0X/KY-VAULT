@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 10879231
       }
+    },
+    {
+      "query": "path:\"WPF\"",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 198,
-  "scale": 0.11137677312981595,
+  "scale": 0.11137677312981589,
   "close": true
 }

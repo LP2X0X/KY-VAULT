@@ -20,10 +20,10 @@
       "The Fundamentals of Machine Learning/The Machine Learning Landscape/Main Challenges of Machine Learning/Main Challenges of Machine Learning.md"
     ],
     "/": [
-      "Moire Algorithm",
       "UML",
       "C Sharp",
-      "Array, String and List",
+      "WPF",
+      "Moire Algorithm",
       "Glossary",
       "Pictures & PDF",
       "README.md"
@@ -87,8 +87,9 @@
     ],
     "UML": [
       "UML/UML.md",
-      "UML/Definition.md",
-      "UML/UML Diagram Type.md"
+      "UML/UML - Definition.md",
+      "UML/UML Diagram Type",
+      "UML/Home.md"
     ],
     "UML/UML Diagram Type/Structural Diagrams": [
       "UML/UML Diagram Type/Structural Diagrams/Composite Structure Diagram.md",
@@ -130,6 +131,11 @@
       "C Sharp/Array, String and List/String.md",
       "C Sharp/Array, String and List/List.md",
       "C Sharp/Array, String and List/Untitled.md"
+    ],
+    "WPF/XAML/The Syntax of XAML": [
+      "WPF/XAML/The Syntax of XAML/xName Attribute.md",
+      "WPF/XAML/The Syntax of XAML/Setting Properties That Aren’t Simple Types.md",
+      "WPF/XAML/The Syntax of XAML/The Syntax of XAML.md"
     ]
   },
   "actionBarOrder": {},
