@@ -1,0 +1,1 @@
+FOV is defined as the region which the camera can see and capture pictures.

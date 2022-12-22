@@ -8,7 +8,7 @@ ___
 
 %% Begin Waypoint %%
 - **[[Array, String and List]]**
-	- [[Array]]
+	- [[C Sharp/Array, String and List/Array]]
 	- [[List]]
 	- [[String]]
 

@@ -7,7 +7,7 @@ type: folder_brief_live
 ___
 
 %% Begin Waypoint %%
-- **[[C Sharp]]**
+- **[[C Sharp/C Sharp]]**
 	- **[[Array, String and List]]**
 	- **[[Basic Structure]]**
 	- [[C Sharp - Defenition]]

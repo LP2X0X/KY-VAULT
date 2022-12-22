@@ -1,0 +1,1 @@
+- The Process Performance Ratio (Cpk) ratio shows the relationship of the process spread to the specification limits while taking into account the centering of the process compared to the specification limits. Cpk represents the lowest value of the capability against the upper or lower specification, showing where, within the specification limits, the process is producing.

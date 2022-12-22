@@ -1,0 +1,1 @@
+Refactoring code means that you improve the maintainability of the code without changing the behavior. The intent of refactoring is to make code more understandable, more explicit in its intent, and ultimately easier to maintain.

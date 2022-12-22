@@ -7,7 +7,7 @@ type: folder_brief_live
 ---
 
 %% Begin Waypoint %%
-- **[[UML]]**
+- **[[UML/UML]]**
 	- [[UML - Definition]]
 	- **[[UML Diagram Type]]**
 

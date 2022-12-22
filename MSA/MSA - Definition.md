@@ -1,0 +1,1 @@
+MSA is defined as an experimental and mathematical method of determining the amount of variation that exists within a measurement process. Variation in the measurement process can directly contribute to our overall process variability. MSA is used to certify the measurement system for use by evaluating the system’s accuracy, precision and stability.

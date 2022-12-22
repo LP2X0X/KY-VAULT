@@ -1,0 +1,1 @@
+Lead is an electrical connection consisting of a length of wire or a metal pad (surface-mount technology) that is designed to connect two locations electrically.

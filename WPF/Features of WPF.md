@@ -1,5 +1,5 @@
 # Declarative UI
-- WPF allows you to construct your interface using a markup language called [[XAML]] (pronounced *zammel*, rhymes with camel). XAML is a much richer markup language than HTML, and it has less ambiguity. Visual Studio, as well as some members of the Expression family of products are able to generate XAML natively.
+- WPF allows you to construct your interface using a markup language called [[WPF/XAML/XAML]] (pronounced *zammel*, rhymes with camel). XAML is a much richer markup language than HTML, and it has less ambiguity. Visual Studio, as well as some members of the Expression family of products are able to generate XAML natively.
 # Intelligent Layout
 - WPF provides an extensible layout system for visually arranging the elements of a user interface. It can intelligently resize and adjust, depending on how you define the layout.
 # Scalable Graphics  

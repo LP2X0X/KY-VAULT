@@ -1,0 +1,1 @@
+- Cmk is a short-term index that is utilized in the determination of the effectiveness of machine improvement efforts or a new machine’s capability to meet requirements in an initial run. It is also known as the Machine Capability Index.

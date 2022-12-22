@@ -1,0 +1,1 @@
+A pad is the exposed region of metal on a circuit board that the component lead is soldered to. 

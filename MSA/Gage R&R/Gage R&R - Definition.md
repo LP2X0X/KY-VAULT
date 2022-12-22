@@ -1,0 +1,5 @@
+- Gage Repeatability and Reproducibility (Gage R & R) is a methodology used to define the amount of variation in the measurement data due to the measurement system. It then compares measurement variation to the total variability observed, consequently defining the capability of the measurement system.
+- Measurement variation consists of two important factors, Repeatability and Reproducibility (R&R).
+	- **Repeatability** is due to *equipment variation*.
+	- **Reproducibility** is due to *inspector or operator variation*.
+- Understanding Gage R & R allows us to predict the percentage or probability of measurement error and understand the source of the variation (equipment or appraiser). Through determination of where the variation in the measurement system exists, we can take appropriate action and improve the quality of our data. Better data leads to better decisions, fewer errors and higher quality.

@@ -23,7 +23,9 @@
       "UML",
       "C Sharp",
       "WPF",
+      "Repeatability Tool",
       "Moire Algorithm",
+      "MSA",
       "Glossary",
       "Pictures & PDF",
       "README.md"
@@ -136,6 +138,26 @@
       "WPF/XAML/The Syntax of XAML/xName Attribute.md",
       "WPF/XAML/The Syntax of XAML/Setting Properties That Aren’t Simple Types.md",
       "WPF/XAML/The Syntax of XAML/The Syntax of XAML.md"
+    ],
+    "WPF/XAML": [
+      "WPF/XAML/Renaming a XAML File.md",
+      "WPF/XAML/XAML - Definition.md",
+      "WPF/XAML/The Syntax of XAML",
+      "WPF/XAML/XAML.md"
+    ],
+    "Glossary/Koh Young Glossary": [
+      "Glossary/Koh Young Glossary/AOI.md",
+      "Glossary/Koh Young Glossary/API.md",
+      "Glossary/Koh Young Glossary/Koh Young Glossary.md",
+      "Glossary/Koh Young Glossary/SPI.md",
+      "Glossary/Koh Young Glossary/Software Architecture.md"
+    ],
+    "WPF": [
+      "WPF/Features of WPF.md",
+      "WPF/WPF - Definition.md",
+      "WPF/Alignment, Margins, and Padding Overview.md",
+      "WPF/WPF.md",
+      "WPF/XAML"
     ]
   },
   "actionBarOrder": {},

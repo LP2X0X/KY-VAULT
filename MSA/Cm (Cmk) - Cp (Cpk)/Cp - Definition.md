@@ -1,0 +1,3 @@
+- Process capability is defined as a statistical measure of the inherent process variability of a given characteristic. You can use a process-capability study to assess the ability of a process to meet specifications.
+- Process capability analysis with the Cp ratio shows how well the process spread (expressed as six standard deviations) fits into the specification range. This measurement is determined by dividing the specification limit (voice of the customer) by the process spread (voice of the process).
+- During a quality improvement initiative, such as Six Sigma, a capability estimate is typically obtained at the start and end of the study to reflect the level of improvement that occurred. 

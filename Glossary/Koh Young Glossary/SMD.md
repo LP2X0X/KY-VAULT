@@ -1,0 +1,1 @@
+A surface-mount device or SMD is an electronic device for which the components are mounted or placed directly onto the surface of the PCB.

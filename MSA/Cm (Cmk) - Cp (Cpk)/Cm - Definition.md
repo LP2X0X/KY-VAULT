@@ -1,0 +1,5 @@
+- Machine capability is the measure of the actual quality of a machine with respect to its specifications (abbreviation: cm: c stands for capability and m for machine).
+- Specifically, machine capability as well as other characteristic capability values focus on:
+	- checking of existing machines
+	- objective arguments in case of machine defects
+	- findings for target specifications when buying a machine

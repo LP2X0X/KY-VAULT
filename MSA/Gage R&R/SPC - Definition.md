@@ -1,0 +1,2 @@
+- Statistical Process Control (SPC) is method of measuring and controlling quality by monitoring the manufacturing process.
+- SPC tools and procedures can help you monitor process behavior, discover issues in internal systems, and find solutions for production issues.

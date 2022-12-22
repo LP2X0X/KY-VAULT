@@ -1,0 +1,1 @@
+Part is a term which indicates a specific type of components.

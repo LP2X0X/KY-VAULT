@@ -1,0 +1,1 @@
+Body means the body of the electrical components.

@@ -1,0 +1,1 @@
+Surface-mount technology (SMT), originally called planar mounting, is a method in which the electrical components are mounted directly onto the surface of a printed circuit board (PCB). An electrical component mounted in this manner is referred to as a surface-mount device ([[SMD]]).

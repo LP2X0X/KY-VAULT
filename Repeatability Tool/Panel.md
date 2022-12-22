@@ -1,0 +1,1 @@
+In an array, if there are parts of the PCB with the same pattern, we can group them as a panel.
