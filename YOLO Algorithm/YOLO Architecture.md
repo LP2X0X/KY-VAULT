@@ -1,0 +1,6 @@
+- **YOLO architecture** is FCNN ([[Fully Connected Neural Network]]) based.
+- The YOLO framework has three main components:
+	-   **Backbone**
+	-   **Head** 
+	-   **Neck**
+- The **Backbone** mainly extracts essential features of an image and feeds them to the **Head** through **Neck**. The **Neck** collects feature maps extracted by the **Backbone** and creates feature pyramids. Finally, the head consists of output layers that have final detections.

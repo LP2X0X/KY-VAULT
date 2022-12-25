@@ -1,0 +1,2 @@
+- A feature map, or activation map, is the output activations for a given filter and the definition is the same regardless of what layer you are on.
+- Feature map and activation map mean exactly the same thing. It is called an activation map because it is a mapping that corresponds to the activation of different parts of the image, and also a feature map because it is also a mapping of where a certain kind of feature is found in the image. A high activation means a certain feature was found. 

@@ -12,10 +12,13 @@ type: folder_brief_live
 	- **[[dot Net Glossary]]**
 	- **[[Koh Young Glossary]]**
 	- **[[Miscellaneous Glossary]]**
-	- **MSA Glossary**
-		- [[Gage R&R Glossary]]
-		- [[Gage R&R]]
-		- [[SPC]]
+	- **[[MSA Glossary]]**
+	- **Neural Network Glossary**
+		- [[CNN]]
+		- [[Feature Map]]
+		- [[Fully Connected Neural Network]]
+		- [[Region Proposal Network]]
+		- [[YOLO]]
 	- **[[System Architect Glossary]]**
 
 %% End Waypoint %%

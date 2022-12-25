@@ -8,139 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "568961c2c5d7b707",
+            "id": "9eba62da729abcef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeatability Tool/Array.md",
+                "file": "Glossary/Miscellaneous Glossary/Miscellaneous Glossary.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8f8f9e6118ad7c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YOLO Algorithm/YOLO Algorithm.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "5e2a5531fdf410b2",
+            "id": "c48ca11632dca60d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeatability Tool/Pad.md",
+                "file": "YOLO Algorithm/One-Stage vs Two-Stage Object Detection Models.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "3aa9df0be4be8c12",
+            "id": "fe876fc1d5208671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeatability Tool/Component.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5161a5781aef7db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repeatability Tool/Part.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "950133ca887f5280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Koh Young Glossary/Koh Young Glossary.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e18bb9963e50dc8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Koh Young Glossary/Koh Young Glossary.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5a2a9d4033c918e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repeatability Tool/Lead.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c2bf2706255fbedd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Koh Young Glossary/Koh Young Glossary.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0531c57c1f2e925b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repeatability Tool/Lead.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e925cdb9371c175e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Koh Young Glossary/Koh Young Glossary.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e2c7a95be9d5cabc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSA/MSA.md",
+                "file": "Glossary/Neural Network Glossary/Region Proposal Network.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5032539367676
+    "width": 349.50584411621094
   },
   "right": {
     "id": "7491882444cf49f2",
@@ -198,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSA/MSA.md",
+                "file": "Glossary/Neural Network Glossary/Region Proposal Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSA/MSA.md"
+                "file": "Glossary/Neural Network Glossary/Region Proposal Network.md"
               }
             }
           },
@@ -258,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,17 +191,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e2c7a95be9d5cabc",
+  "active": "fe876fc1d5208671",
   "lastOpenFiles": [
-    "C Sharp/C Sharp.md",
-    "UML/UML.md",
-    "Moire Algorithm/Drawing 2022-12-20 23.24.06.excalidraw.md",
+    "YOLO Algorithm/One-Stage vs Two-Stage Object Detection Models.md",
+    "Glossary/Neural Network Glossary/Region Proposal Network.md",
+    "Glossary/Neural Network Glossary/Feature Map.md",
+    "YOLO Algorithm/YOLO Algorithm.md",
+    "Glossary/Miscellaneous Glossary/Miscellaneous Glossary.md",
+    "Glossary/Neural Network Glossary/CNN.md",
     "Glossary/Glossary.md",
-    "Repeatability Tool/Repeatability Tool.md",
-    "Glossary/Koh Young Glossary/Koh Young Glossary.md",
-    "Glossary/System Architect Glossary/Software Architecture.md",
-    "Glossary/System Architect Glossary/System Architect Glossary.md",
-    "Glossary/Koh Young Glossary/API.md",
-    "Repeatability Tool/Body.md"
+    "YOLO Algorithm/YOLO Basic Concept.md",
+    "YOLO Algorithm/YOLO Architecture.md",
+    "YOLO Algorithm/YOLO basic concept 1.md"
   ]
 }
