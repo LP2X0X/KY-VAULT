@@ -11,6 +11,7 @@ type: folder_brief_live
 	- [[Array]]
 	- [[Body]]
 	- [[Component]]
+	- [[CRD]]
 	- [[Lead ID]]
 	- [[Lead]]
 	- [[Package]]

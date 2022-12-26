@@ -159,6 +159,16 @@
       "WPF/Alignment, Margins, and Padding Overview.md",
       "WPF/WPF.md",
       "WPF/XAML"
+    ],
+    "Glossary": [
+      "Glossary/C Sharp Glossary",
+      "Glossary/dot Net Glossary",
+      "Glossary/Glossary.md",
+      "Glossary/Koh Young Glossary",
+      "Glossary/MSA Glossary",
+      "Glossary/Neural Network Glossary",
+      "Glossary/System Architect Glossary",
+      "Glossary/Miscellaneous Glossary"
     ]
   },
   "actionBarOrder": {},

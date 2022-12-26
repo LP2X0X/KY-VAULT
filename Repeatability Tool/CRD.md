@@ -1,0 +1,1 @@
+A Component Reference Designator unambiguously identifies the location of an component within an electrical schematic or on a printed circuit board.

@@ -13,12 +13,7 @@ type: folder_brief_live
 	- **[[Koh Young Glossary]]**
 	- **[[Miscellaneous Glossary]]**
 	- **[[MSA Glossary]]**
-	- **Neural Network Glossary**
-		- [[CNN]]
-		- [[Feature Map]]
-		- [[Fully Connected Neural Network]]
-		- [[Region Proposal Network]]
-		- [[YOLO]]
+	- **[[Neural Network Glossary]]**
 	- **[[System Architect Glossary]]**
 
 %% End Waypoint %%
