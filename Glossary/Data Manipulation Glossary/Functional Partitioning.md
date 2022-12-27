@@ -1,0 +1,1 @@
+Functional partitioning. In this strategy, data is aggregated according to how it is used by each bounded context in the system. For example, an e-commerce system might store invoice data in one partition and product inventory data in another.

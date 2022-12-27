@@ -1,0 +1,1 @@
+**Horizontal partitioning** (often called _sharding_). In this strategy, each partition is a separate data store, but all partitions have the same schema. Each partition is known as a _shard_ and holds a specific subset of the data, such as all the orders for a specific set of customers.

@@ -8,6 +8,7 @@ type: folder_brief_live
 
 %% Begin Waypoint %%
 - **[[Repeatability Tool]]**
+	- **[[Apache Parquet]]**
 	- [[Array]]
 	- [[Body]]
 	- [[Component]]

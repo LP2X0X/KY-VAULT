@@ -9,6 +9,7 @@ type: folder_brief_live
 %% Begin Waypoint %%
 - **[[Glossary]]**
 	- **[[C Sharp Glossary]]**
+	- **[[Data Manipulation Glossary]]**
 	- **[[dot Net Glossary]]**
 	- **[[Koh Young Glossary]]**
 	- **[[Miscellaneous Glossary]]**

@@ -20,48 +20,60 @@ img[alt*="center"] {
 }
 .markdown-preview-view h1 {
     font-size: 35px;
+	font-family: "Segoe UI";
 }
 
 .markdown-preview-view h2 {
     font-size: 30px;
+	font-family: "Segoe UI";
 }
 
 .markdown-preview-view h3 {
     font-size: 25px;
+	font-family: "Segoe UI";
 }
 
 .markdown-preview-view h4 {
     font-size: 20px;
+	font-family: "Segoe UI";
 }
 
 .markdown-preview-view h5 {
     font-size: 15px;
+	font-family: "Segoe UI";
 }
 
 .markdown-preview-view h6 {
     font-size: 15px;
+	font-family: "Segoe UI";
 }
 
 .cm-header-1 {
     font-size: 35pt;
+	font-family: "Segoe UI";
 }
 
 .cm-header-2 {
     font-size: 30pt;
+	font-family: "Segoe UI";
 }
 
 .cm-header-3 {
     font-size: 25pt;
+	font-family: "Segoe UI";
 }
 
 .cm-header-4 {
     font-size: 20pt;
+	font-family: "Segoe UI";
 }
 
 .cm-header-5 {
     font-size: 15pt;
+	font-family: "Segoe UI";
 }
 
 .cm-header-6 {
     font-size: 15pt;
+	font-family: "Segoe UI";
 }

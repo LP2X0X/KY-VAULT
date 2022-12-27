@@ -15,7 +15,7 @@ type: folder_brief_live
 	- [[Fields]]
 	- [[Overloading]]
 	- [[Overriding]]
-	- [[Properties]]
+	- [[Glossary/C Sharp Glossary/Properties]]
 	- [[Signature]]
 	- [[Value Type]]
 

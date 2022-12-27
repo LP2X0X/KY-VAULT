@@ -8,31 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ddbac440937155b",
+            "id": "061dcf62d4c74aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeatability Tool/Repeatability Tool.md",
+                "file": "Glossary/Data Manipulation Glossary/Horizontal Partitioning.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dfe907ee94060b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repeatability Tool/Apache Parquet/Data Processing and Analytics.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "607f19b42a1fb197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repeatability Tool/Apache Parquet/Properties.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "c2d55d5748ccc360",
+            "id": "b198340cc8aa582f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeatability Tool/CRD.md",
+                "file": "Glossary/System Architect Glossary/System Architect Glossary.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8d20b701f8962098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repeatability Tool/Apache Parquet/Parquet - Definition.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repeatability Tool/CRD.md",
+                "file": "Repeatability Tool/Apache Parquet/Parquet - Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repeatability Tool/CRD.md"
+                "file": "Repeatability Tool/Apache Parquet/Parquet - Definition.md"
               }
             }
           },
@@ -167,17 +203,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c2d55d5748ccc360",
+  "active": "8d20b701f8962098",
   "lastOpenFiles": [
-    "Repeatability Tool/Repeatability Tool.md",
-    "Glossary/Koh Young Glossary/Koh Young Glossary.md",
-    "Glossary/MSA Glossary/MSA Glossary.md",
+    "Glossary/Data Manipulation Glossary/Data Manipulation Glossary.md",
+    "Glossary/Data Manipulation Glossary/Parquet.md",
+    "Repeatability Tool/Apache Parquet/Parquet - Definition.md",
+    "Glossary/System Architect Glossary/System Architect Glossary.md",
     "Glossary/Glossary.md",
-    "YOLO Algorithm/One-Stage vs Two-Stage Object Detection Models.md",
-    "YOLO Algorithm/YOLO Algorithm.md",
-    "Glossary/Miscellaneous Glossary/Miscellaneous Glossary.md",
-    "Glossary/Neural Network Glossary/Neural Network Glossary.md",
-    "Glossary/Neural Network Glossary/Region Proposal Network.md",
-    "Glossary/Neural Network Glossary/CNN.md"
+    "Repeatability Tool/Apache Parquet/Properties.md",
+    "Repeatability Tool/Apache Parquet/Data Processing and Analytics.md",
+    "Repeatability Tool/Apache Parquet/Apache Parquet.md",
+    "Glossary/Data Manipulation Glossary/Functional Partitioning.md",
+    "Glossary/Data Manipulation Glossary/Vertical Partitioning.md"
   ]
 }

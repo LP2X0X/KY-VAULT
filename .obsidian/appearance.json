@@ -1,7 +1,7 @@
 {
   "cssTheme": "Minimal",
   "translucency": true,
-  "textFontFamily": "Segoe UI,Input,Calibri,Cambria,Courier New",
+  "textFontFamily": "Segoe UI,Calibri,Cambria,Courier New",
   "enabledCssSnippets": [
     "appearance"
   ],
@@ -10,5 +10,5 @@
   "showViewHeader": true,
   "baseFontSize": 14,
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "Input"
+  "monospaceFontFamily": "Segoe UI"
 }
