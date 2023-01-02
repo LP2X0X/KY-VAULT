@@ -27,9 +27,11 @@
       "YOLO Algorithm",
       "Moire Algorithm",
       "MSA",
+      "Diagrams",
       "Glossary",
       "Pictures & PDF",
-      "README.md"
+      "README.md",
+      "Class_Diagrams.mdj"
     ],
     "Definitions": [
       "Definitions/Label.md",
