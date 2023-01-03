@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a675cc4bbd664aae",
+        "id": "d77a9ce29e3b9b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "fcba8ee202a94475",
+            "id": "caaff2f93cdd0cc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diagrams/Diagrams.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diagrams/Diagrams.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,17 +147,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fcba8ee202a94475",
+  "active": "219288dceabbab17",
   "lastOpenFiles": [
+    "Glossary/Koh Young Glossary/SPI.md",
+    "Glossary/Koh Young Glossary/Koh Young Glossary.md",
+    "Glossary/Koh Young Glossary/Output file.md",
+    "Glossary/Koh Young Glossary/SMT.md",
+    "UML/UML Diagram Type/Behavioral Diagrams/Interaction Diagrams/Sequence Diagram.md",
+    "Diagrams/Diagrams.md",
     "Glossary/Data Manipulation Glossary/Bit-packing.md",
     "Glossary/Data Manipulation Glossary/Data Manipulation Glossary.md",
     "Glossary/Miscellaneous Glossary/Miscellaneous Glossary.md",
-    "Glossary/Neural Network Glossary/Neural Network Glossary.md",
-    "Glossary/Glossary.md",
-    "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
-    "UML/UML Diagram Type/Structural Diagrams/Component Diagram.md",
-    "UML/UML Diagram Type/Behavioral Diagrams/Interaction Diagrams/Sequence Diagram.md",
-    "UML/UML Diagram Type/Behavioral Diagrams/Interaction Diagrams/Interaction Diagrams.md",
-    "UML/UML Diagram Type/Structural Diagrams/Structural Diagrams.md"
+    "Glossary/Neural Network Glossary/Neural Network Glossary.md"
   ]
 }

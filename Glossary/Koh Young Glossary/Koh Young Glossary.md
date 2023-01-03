@@ -11,6 +11,7 @@ type: folder_brief_live
 	- [[AOI]]
 	- [[API]]
 	- [[FOV]]
+	- [[Output file]]
 	- [[SMD]]
 	- [[SMT]]
 	- [[SPI]]
