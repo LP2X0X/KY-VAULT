@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "29cca4e88145667f",
+        "id": "a675cc4bbd664aae",
         "type": "tabs",
         "children": [
           {
-            "id": "061dcf62d4c74aa2",
+            "id": "fcba8ee202a94475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Data Manipulation Glossary/Horizontal Partitioning.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dfe907ee94060b8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repeatability Tool/Apache Parquet/Data Processing and Analytics.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "607f19b42a1fb197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repeatability Tool/Apache Parquet/Properties.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b198340cc8aa582f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/System Architect Glossary/System Architect Glossary.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8d20b701f8962098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repeatability Tool/Apache Parquet/Parquet - Definition.md",
+                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repeatability Tool/Apache Parquet/Parquet - Definition.md",
+                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repeatability Tool/Apache Parquet/Parquet - Definition.md"
+                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md"
               }
             }
           },
@@ -203,17 +154,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8d20b701f8962098",
+  "active": "fcba8ee202a94475",
   "lastOpenFiles": [
-    "Glossary/Data Manipulation Glossary/Data Manipulation Glossary.md",
-    "Glossary/Data Manipulation Glossary/Parquet.md",
-    "Repeatability Tool/Apache Parquet/Parquet - Definition.md",
-    "Glossary/System Architect Glossary/System Architect Glossary.md",
-    "Glossary/Glossary.md",
-    "Repeatability Tool/Apache Parquet/Properties.md",
-    "Repeatability Tool/Apache Parquet/Data Processing and Analytics.md",
-    "Repeatability Tool/Apache Parquet/Apache Parquet.md",
-    "Glossary/Data Manipulation Glossary/Functional Partitioning.md",
-    "Glossary/Data Manipulation Glossary/Vertical Partitioning.md"
+    "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
+    "UML/UML Diagram Type/Structural Diagrams/Component Diagram.md",
+    "UML/UML Diagram Type/Behavioral Diagrams/Interaction Diagrams/Sequence Diagram.md",
+    "UML/UML Diagram Type/Behavioral Diagrams/Interaction Diagrams/Interaction Diagrams.md",
+    "UML/UML Diagram Type/Structural Diagrams/Structural Diagrams.md",
+    "UML/UML.md",
+    "Repeatability Tool/Apache Parquet/Parquet - Structure.md",
+    "Glossary/Data Manipulation Glossary/Bit-packing.md",
+    "Glossary/Data Manipulation Glossary/Data Partitioning.md",
+    "Glossary/Data Manipulation Glossary/Functional Partitioning.md"
   ]
 }

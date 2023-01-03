@@ -1,0 +1,2 @@
+Bit packing is a form of data compression that reducing that number of bits it takes to serialize a value. 
+A simple example of this is an integer that is always between 0 and 100. Normally an integer will be serialized as 32 bits, but knowing its range is 100 it can be packed into only 7 bits.
