@@ -16,10 +16,11 @@
 	- "-": Private.
 	- "#": Protected.
 	- "~": Package Local.
-- Parameters in methods can be described in terms of direction.
-	- "in"
-	- "out"
-	- "inout"
+- Parameters in methods can be described in terms of direction:
+	- in: Indicates that Parameter values are passed in by the caller.
+	- inout: Indicates that Parameter values are passed in by the caller and (possibly different) values passed out to the caller.
+	- out: Indicates that Parameter values are passed out to the caller.
+	- return: Indicates that Parameter values are passed as return values back to the caller.
 ![[Pasted image 20221208131427.png|center]]
 ## Perspectives
 ### Conceptual

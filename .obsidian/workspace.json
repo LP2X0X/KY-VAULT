@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
-                "mode": "preview",
+                "file": "Diagrams/Diagrams.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
+                "file": "Diagrams/Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md"
+                "file": "Diagrams/Diagrams.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "fcba8ee202a94475",
   "lastOpenFiles": [
+    "Glossary/Data Manipulation Glossary/Bit-packing.md",
+    "Glossary/Data Manipulation Glossary/Data Manipulation Glossary.md",
+    "Glossary/Miscellaneous Glossary/Miscellaneous Glossary.md",
+    "Glossary/Neural Network Glossary/Neural Network Glossary.md",
+    "Glossary/Glossary.md",
     "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
     "UML/UML Diagram Type/Structural Diagrams/Component Diagram.md",
     "UML/UML Diagram Type/Behavioral Diagrams/Interaction Diagrams/Sequence Diagram.md",
     "UML/UML Diagram Type/Behavioral Diagrams/Interaction Diagrams/Interaction Diagrams.md",
-    "UML/UML Diagram Type/Structural Diagrams/Structural Diagrams.md",
-    "UML/UML.md",
-    "Repeatability Tool/Apache Parquet/Parquet - Structure.md",
-    "Glossary/Data Manipulation Glossary/Bit-packing.md",
-    "Glossary/Data Manipulation Glossary/Data Partitioning.md",
-    "Glossary/Data Manipulation Glossary/Functional Partitioning.md"
+    "UML/UML Diagram Type/Structural Diagrams/Structural Diagrams.md"
   ]
 }
