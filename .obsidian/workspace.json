@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29cca4e88145667f",
+        "id": "638375f0baf5937f",
         "type": "tabs",
         "children": [
           {
-            "id": "fe577f8b4c3439d7",
+            "id": "ca420966c8dee260",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Array, String and List/Array.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f3ce781aee0d38bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/OOP - Part 1/Fields - Definition.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c8340881b39e7e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/OOP - Part 1/Params Keyword.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2a7d697ce7a18135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/Variables and Operators/Data Types Notes/Double.md",
+                "file": "Glossary/Koh Young Glossary/Output file.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,7 +33,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "219288dceabbab17",
+            "id": "93d85604355e1efd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,13 +56,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "bd39f9a8aed4e9f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.50584411621094,
-    "collapsed": true
+    "width": 423.5
   },
   "right": {
     "id": "7491882444cf49f2",
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Array, String and List/Array.md",
+                "file": "Glossary/Koh Young Glossary/Output file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Array, String and List/Array.md"
+                "file": "Glossary/Koh Young Glossary/Output file.md"
               }
             }
           },
@@ -161,20 +132,12 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "b52ea97419a5f208",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,17 +154,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fe577f8b4c3439d7",
+  "active": "ca420966c8dee260",
   "lastOpenFiles": [
-    "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
-    "C Sharp/OOP - Part 1/Params Keyword.md",
-    "C Sharp/Variables and Operators/Data Types Notes/Double.md",
-    "C Sharp/Variables and Operators/Data Types Notes/Float.md",
-    "C Sharp/Variables and Operators/Data Types Notes/Decimal.md",
-    "C Sharp/Variables and Operators/Data Types Notes/Data Types Notes.md",
-    "C Sharp/Enum and Struct/Enum and Struct.md",
-    "C Sharp/OOP - Part 1/Properties - Definition.md",
-    "C Sharp/OOP - Part 1/Overriding - Definition.md",
-    "C Sharp/OOP - Part 1/Overloading - Definition.md"
+    "Definitions/Definitions.md",
+    "References/Interest Points.md",
+    "References/SIFT.md",
+    "References/Homogeneous Coordinates.md",
+    "References/Edge Detection using Laplacian.md",
+    "References/Introduction to SIFT (Scale-Invariant Feature Transform).md",
+    "References/Distinctive Image Features from Scale-Invariant Keypoints.md",
+    "References/References.md",
+    "Definitions/Blob.md",
+    "References/Untitled.md"
   ]
 }

@@ -1,0 +1,1 @@
+Projection is the process of selecting columns — you can think of it as the `SELECT` statement in a SQL query. Projection is best supported by a column-based layout.

@@ -1,0 +1,1 @@
+Predicates is the criteria used to select rows —you can think of it as the WHERE clause in a SQL query. Predicates are best supported by row-based storage.
