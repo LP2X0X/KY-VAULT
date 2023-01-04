@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Koh Young Glossary/Output file.md",
-                "mode": "preview",
+                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Koh Young Glossary/Output file.md",
+                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Koh Young Glossary/Output file.md"
+                "file": "UML/UML Diagram Type/Structural Diagrams/Class Diagram.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "ca420966c8dee260",
   "lastOpenFiles": [
+    "C Sharp/C Sharp.md",
+    "Glossary/Koh Young Glossary/Output file.md",
     "Definitions/Definitions.md",
     "References/Interest Points.md",
     "References/SIFT.md",
@@ -163,8 +165,6 @@
     "References/Edge Detection using Laplacian.md",
     "References/Introduction to SIFT (Scale-Invariant Feature Transform).md",
     "References/Distinctive Image Features from Scale-Invariant Keypoints.md",
-    "References/References.md",
-    "Definitions/Blob.md",
-    "References/Untitled.md"
+    "References/References.md"
   ]
 }

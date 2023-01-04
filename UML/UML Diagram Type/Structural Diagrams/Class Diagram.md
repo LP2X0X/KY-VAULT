@@ -16,19 +16,11 @@
 	- "-": Private.
 	- "#": Protected.
 	- "~": Package Local.
-<<<<<<< HEAD
 - Parameters in methods can be described in terms of direction.
-=======
-- Parameters in methods can be described in terms of direction:
->>>>>>> 412a018dcd0414fc56443ff6b9016c4dbae48525
 	- in: Indicates that Parameter values are passed in by the caller.
 	- inout: Indicates that Parameter values are passed in by the caller and (possibly different) values passed out to the caller.
 	- out: Indicates that Parameter values are passed out to the caller.
 	- return: Indicates that Parameter values are passed as return values back to the caller.
-<<<<<<< HEAD
-
-=======
->>>>>>> 412a018dcd0414fc56443ff6b9016c4dbae48525
 ![[Pasted image 20221208131427.png|center]]
 ## Perspectives
 ### Conceptual
