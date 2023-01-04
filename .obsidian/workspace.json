@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac013a6a7c7471f8",
+        "id": "3263ac29f0e351eb",
         "type": "tabs",
         "children": [
           {
-            "id": "6dec3a2f9fe105be",
+            "id": "93f1160ca59d9f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Koh Young Glossary/Koh Young Glossary.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c3901e35b79368fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/Neural Network.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6f96c0db23d86d4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/Feedfoward Network Model.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ee3929852d821ded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/1st Stage of Neural Network.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "57aef291b4c5938f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/Summation Operator.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b187798624da7208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/1st Stage of Neural Network.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "975b4a7ee34052ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/2nd Stage of Neural Network.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06dee32b60eeee1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/3rd Stage of Neural Network.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fcbdf7ae368b1b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/3rd Stage of Neural Network.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f09d5c0cf60fb354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/4th Stage of Neural Network.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "054b016b34cf978c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Neural Network Glossary/CNN.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b374ad4e7805fcbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YOLO Algorithm/YOLO - Definition.md",
+                "file": "Repeatability Tool/Package.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Neural Network Glossary/CNN.md",
+                "file": "Repeatability Tool/Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Neural Network Glossary/CNN.md"
+                "file": "Repeatability Tool/Package.md"
               }
             }
           },
@@ -287,17 +154,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "054b016b34cf978c",
+  "active": "93f1160ca59d9f47",
   "lastOpenFiles": [
-    "Glossary/Neural Network Glossary/Feedfoward Network Model.md",
-    "Glossary/Neural Network Glossary/1st Stage of Neural Network.md",
-    "Glossary/Neural Network Glossary/CNN.md",
-    "Glossary/Neural Network Glossary/5th Stage of Neural Network.md",
-    "Glossary/Neural Network Glossary/3rd Stage of Neural Network.md",
+    "Repeatability Tool/Part.md",
+    "Repeatability Tool/Package.md",
+    "Glossary/Koh Young Glossary/Koh Young Glossary.md",
+    "YOLO Algorithm/YOLO - Definition.md",
+    "Glossary/Neural Network Glossary/Neural Network Glossary.md",
     "Glossary/Neural Network Glossary/4th Stage of Neural Network.md",
-    "Glossary/Neural Network Glossary/Partial Derivative.md",
-    "Glossary/Neural Network Glossary/Cost Function.md",
-    "Glossary/Neural Network Glossary/Feature Map.md",
-    "Glossary/Neural Network Glossary/2nd Stage of Neural Network.md"
+    "Glossary/Neural Network Glossary/3rd Stage of Neural Network.md",
+    "Glossary/Neural Network Glossary/2nd Stage of Neural Network.md",
+    "Glossary/Neural Network Glossary/1st Stage of Neural Network.md",
+    "Glossary/Neural Network Glossary/Summation Operator.md"
   ]
 }
