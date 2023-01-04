@@ -1,0 +1,8 @@
+![[Pasted image 20230104084827.png|center]]
+- Step 9: As you can see above, the Total Error calculated by the Cost Function is propagated back through the entire network. What this means is that the Total Error is essentially broken up and distributed back through the network to every single Weight. Remember, the Partial Derivative asks: How much does a change in a specific Weight affect the Total Error? By calculating the Partial Derivative of each Weight, the network decides how much of the Total Error every Weight should receive.
+```ad-note
+-   Training a network involves minimizing the difference between Actual Output and Target Output. This difference is called the Total Error and was discovered in Stage 2 by using a Cost Function. The question is, once we have discovered the Total Error, what elements can we adjust to minimize it?
+-   The output of a network is a product of two elements: network input and Weights. The input is fixed, so to minimize the Total Error our only option is to adjust the Weights. So, how much do we adjust each Weight?
+-   In other words, what is the exact combination of Weights that will produce a minimal Total Error (technically called a Global Minimum)? Our answer is Gradient Descent, which is an optimization method that helps us find the exact combination of Weights and ultimately discover a Global Minimum. This, however, raises a third and final question: How do we perform Gradient Descent?
+-   To perform Gradient Descent we must calculate the Partial Derivatives of each Weight and then use the Partial Derivatives to update each Weight.
+```

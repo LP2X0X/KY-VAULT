@@ -1,0 +1,1 @@
+A Partial Derivative is the Derivative of a function which has two or more variables but with respect to only one variable. What’s more, all the other variables are treated as constant. This enables you to measure how a single variable (out of many) impacts another single variable.
