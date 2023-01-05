@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeatability Tool/Package.md",
+                "file": "Glossary/Neural Network Glossary/Neural Network Glossary.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repeatability Tool/Package.md",
+                "file": "Glossary/Neural Network Glossary/Neural Network Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repeatability Tool/Package.md"
+                "file": "Glossary/Neural Network Glossary/Neural Network Glossary.md"
               }
             }
           },
@@ -154,17 +154,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "93f1160ca59d9f47",
+  "active": "93d85604355e1efd",
   "lastOpenFiles": [
-    "Repeatability Tool/Part.md",
-    "Repeatability Tool/Package.md",
-    "Glossary/Koh Young Glossary/Koh Young Glossary.md",
-    "YOLO Algorithm/YOLO - Definition.md",
-    "Glossary/Neural Network Glossary/Neural Network Glossary.md",
-    "Glossary/Neural Network Glossary/4th Stage of Neural Network.md",
-    "Glossary/Neural Network Glossary/3rd Stage of Neural Network.md",
-    "Glossary/Neural Network Glossary/2nd Stage of Neural Network.md",
     "Glossary/Neural Network Glossary/1st Stage of Neural Network.md",
-    "Glossary/Neural Network Glossary/Summation Operator.md"
+    "Glossary/Neural Network Glossary/3rd Stage of Neural Network.md",
+    "Glossary/Neural Network Glossary/4th Stage of Neural Network.md",
+    "Glossary/Neural Network Glossary/2nd Stage of Neural Network.md",
+    "Glossary/Neural Network Glossary/Neural Network Glossary.md",
+    "Glossary/Glossary.md",
+    "Repeatability Tool/Package.md",
+    "Repeatability Tool/Part.md",
+    "Glossary/Koh Young Glossary/Koh Young Glossary.md",
+    "YOLO Algorithm/YOLO - Definition.md"
   ]
 }
