@@ -1,0 +1,2 @@
+- Panel elements are components that control the rendering of elements — their size and dimensions, their position, and the arrangement of their child content.
+- Panel is the base class for all elements that provide layout support in Windows Presentation Foundation (WPF). Derived Panel elements are used to position and arrange elements in Extensible Application Markup Language (XAML) and code.

@@ -1,0 +1,2 @@
+- A Viewbox changes the size of the control that it contains, generally to make it expand or contract to fill the available area as much as possible but still keep the original aspect ratio of the child element.
+- A Viewbox may only have one child control. However, this can be another layout control with many children of its own.

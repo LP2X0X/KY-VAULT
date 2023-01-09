@@ -160,7 +160,9 @@
       "WPF/WPF - Definition.md",
       "WPF/Alignment, Margins, and Padding Overview.md",
       "WPF/WPF.md",
-      "WPF/XAML"
+      "WPF/XAML",
+      "WPF/Controls",
+      "WPF/Control.md"
     ],
     "Glossary": [
       "Glossary/C Sharp Glossary",
