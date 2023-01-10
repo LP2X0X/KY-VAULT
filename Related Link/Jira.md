@@ -1,0 +1,1 @@
+http://10.10.1.153:8080/secure/RapidBoard.jspa?rapidView=696&projectKey=TST&view=planning.nodetail&selectedIssue=TST-18&issueLimit=100

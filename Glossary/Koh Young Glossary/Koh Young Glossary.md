@@ -10,10 +10,14 @@ type: folder_brief_live
 - **[[Koh Young Glossary]]**
 	- [[AOI]]
 	- [[API]]
+	- [[Coplanarity]]
 	- [[FOV]]
+	- [[Land]]
 	- [[Output file]]
 	- [[SMD]]
 	- [[SMT]]
+	- [[Solder Ball]]
+	- [[Solder Mask]]
 	- [[SPI]]
 
 %% End Waypoint %%

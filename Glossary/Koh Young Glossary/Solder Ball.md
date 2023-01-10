@@ -1,0 +1,1 @@
+A solder ball, also a solder bump (ofter referred to simply as "ball" or "bumps") is a ball of solder that provides the contact between the chip package and the printed circuit board.

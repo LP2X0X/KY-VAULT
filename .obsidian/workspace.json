@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a51ad88519b2ed85",
+        "id": "c79ac6eef0ee4f39",
         "type": "tabs",
         "children": [
           {
-            "id": "000a31655bf6809e",
+            "id": "299e2086166c7735",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WPF/Controls/Layout/DockPanel.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WPF/Controls/Layout/DockPanel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WPF/Controls/Layout/DockPanel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,17 +147,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "000a31655bf6809e",
+  "active": "299e2086166c7735",
   "lastOpenFiles": [
-    "WPF/Controls/Layout/Panels.md",
-    "WPF/Controls/Controls.md",
-    "WPF/Controls/Layout/Canvas.md",
-    "WPF/Controls/Layout/DockPanel.md",
-    "WPF/Controls/Layout/Decorators.md",
-    "WPF/XAML/XAML.md",
-    "WPF/Controls/Layout/Layout.md",
-    "WPF/Controls/Layout/Border.md",
-    "WPF/Controls/Layout/Viewbox.md",
-    "WPF/Alignment, Margins, and Padding Overview.md"
+    "Glossary/Repeatability Tool Glossary/OSAT Job/Shape - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/OSAT Job/PinNos - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/OSAT Job/PCBInfo - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/Normal Job/PCBInfo - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/OSAT Job/JobFileInfo - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/OSAT Job/Coplanarity - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/Normal Job/Coplanarity - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/OSAT Job/PADs - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/OSAT Job/CADS - DataBase.md",
+    "Related Link/Related Link.md"
   ]
 }

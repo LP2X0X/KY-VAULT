@@ -1,0 +1,2 @@
+- PINID: Index of Pin Number.
+- PINNO: Pin number.

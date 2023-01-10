@@ -1,0 +1,1 @@
+Land refers to the area in conductive pattern where components are attached. Also called pad.

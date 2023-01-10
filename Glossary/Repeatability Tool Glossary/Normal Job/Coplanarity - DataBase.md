@@ -1,0 +1,4 @@
+- GroupID: Index of group.
+- PadID: Unique ID of pad.
+- Exec: To inspect pad or not.
+- GroupName: Group name.

@@ -1,0 +1,2 @@
+- ID: Index of Shape type.
+- ShpType: Shape Index in number (0: Rectangle, 1: Circle, 2: ETC, 3: Rounded rect , 4: Oblong, 5: Negative sloped pad, 6: positive sloped pad).

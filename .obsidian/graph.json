@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 15662848
       }
+    },
+    {
+      "query": "path:\"Repeatability Tool\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 198,
-  "scale": 0.11137677312981589,
+  "scale": 0.0794423193795643,
   "close": true
 }

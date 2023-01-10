@@ -15,6 +15,7 @@ type: folder_brief_live
 	- **[[Miscellaneous Glossary]]**
 	- **[[MSA Glossary]]**
 	- **[[Neural Network Glossary]]**
+	- **[[Repeatability Tool Glossary]]**
 	- **[[System Architect Glossary]]**
 
 %% End Waypoint %%
