@@ -1,0 +1,1 @@
+Adding a new file to Git’s index does two things — it marks the file as being “tracked” and creates a copy of that file into the index.

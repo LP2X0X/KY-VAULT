@@ -1,0 +1,4 @@
+- Version control, also known as source control, is the practice of tracking and managing changes to software code.
+- Benefits:
+	- A way to save progress.
+	- Allows you to confidently collaborate with your fellow developers over the same set of files.

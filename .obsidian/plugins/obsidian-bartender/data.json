@@ -28,6 +28,7 @@
       "Moire Algorithm",
       "MSA",
       "Diagrams",
+      "Git & GitHub",
       "Glossary",
       "Related Link",
       "Pictures & PDF",
@@ -189,6 +190,25 @@
       "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/Normal Job.md",
       "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/PCBInfo - DataBase.md",
       "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/Shape - DataBase.md"
+    ],
+    "Git & GitHub/Git": [
+      "Git & GitHub/Git/Git - Definition.md",
+      "Git & GitHub/Git/Set up credential.md",
+      "Git & GitHub/Git/git init.md",
+      "Git & GitHub/Git/git add.md",
+      "Git & GitHub/Git/Git.md",
+      "Git & GitHub/Git/Git command.md",
+      "Git & GitHub/Git/git commit.md",
+      "Git & GitHub/Git/Git Repository.md",
+      "Git & GitHub/Git/The Three Stages of Git.md",
+      "Git & GitHub/Git/Type of File Stage",
+      "Git & GitHub/Git/Unmodified File.md"
+    ],
+    "Git & GitHub": [
+      "Git & GitHub/Git",
+      "Git & GitHub/GitHub",
+      "Git & GitHub/Questions",
+      "Git & GitHub/Extra Notes"
     ]
   },
   "actionBarOrder": {},

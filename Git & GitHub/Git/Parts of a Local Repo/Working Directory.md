@@ -1,0 +1,1 @@
+Where you store all files and folder of your project, include the .git folder.

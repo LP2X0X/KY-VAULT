@@ -1,0 +1,3 @@
+- The Git index is a staging area between the [[Working Directory|working directory]] and repository.
+- In other words, the index is a temporary scratch pad—one you can use to stuff edits into till you are sure you want to commit.
+- There’s another subtle aspect to the index—there is no command to “empty” the index.

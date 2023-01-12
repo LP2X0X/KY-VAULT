@@ -1,0 +1,3 @@
+- Now, when we commit, Git uses a specialized algorithm to safely tuck away everything that we added to its memory. When we say we “committed” our changes to Git, what that translates into is that Git creates a commit object that it stores inside the .git folder.
+- Commit objects are stored by Git in binary format, making them very hard for humans to read but super safe and efficient for Git.
+![[Pasted image 20230112142811.png|center]]

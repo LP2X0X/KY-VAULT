@@ -11,6 +11,9 @@ type: folder_brief_live
 	- **[[C Sharp Glossary]]**
 	- **[[Data Manipulation Glossary]]**
 	- **[[dot Net Glossary]]**
+	- **Git Glossary**
+		- [[Git]]
+		- [[Version Control]]
 	- **[[Koh Young Glossary]]**
 	- **[[Miscellaneous Glossary]]**
 	- **[[MSA Glossary]]**

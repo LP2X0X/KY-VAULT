@@ -1,0 +1,1 @@
+Creating a Git repository involves running the "***git init***" command inside the top folder of your project

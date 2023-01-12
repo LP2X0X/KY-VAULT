@@ -1,0 +1,1 @@
+This is where the copy of all files from [[Working Directory|working directory]] are stored with their [[Commit Object|commit object]].

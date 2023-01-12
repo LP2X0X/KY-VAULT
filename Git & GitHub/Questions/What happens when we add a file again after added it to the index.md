@@ -1,0 +1,1 @@
+If you add the file again, Git overwrites the index with the latest changes reflected in that file.
