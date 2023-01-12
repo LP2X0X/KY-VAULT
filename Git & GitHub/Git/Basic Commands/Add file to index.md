@@ -1,0 +1,1 @@
+The ***"git add"*** command takes as its argument the name of the file you wish to add to Git and therefore "stage" it.

@@ -8,7 +8,14 @@ type: folder_brief_live
 
 %% Begin Waypoint %%
 - **[[Git]]**
-	- **[[Commands]]**
+	- **Basic Commands**
+		- [[Commands]]
+		- [[Add file to index]]
+		- [[Git command structure]]
+		- [[Commit files]]
+		- [[Initializing Repo]]
+		- [[Get git status]]
+	- **[[Branches]]**
 	- [[Git - Definition]]
 	- **Parts of a Local Repo**
 		- [[Commit Object]]

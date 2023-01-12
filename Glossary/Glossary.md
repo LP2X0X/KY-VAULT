@@ -12,6 +12,7 @@ type: folder_brief_live
 	- **[[Data Manipulation Glossary]]**
 	- **[[dot Net Glossary]]**
 	- **Git Glossary**
+		- [[Branch]]
 		- [[Git]]
 		- [[Version Control]]
 	- **[[Koh Young Glossary]]**
