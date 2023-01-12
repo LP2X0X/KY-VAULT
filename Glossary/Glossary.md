@@ -13,6 +13,7 @@ type: folder_brief_live
 	- **[[dot Net Glossary]]**
 	- **Git Glossary**
 		- [[Branch]]
+		- [[Commit]]
 		- [[Git]]
 		- [[Version Control]]
 	- **[[Koh Young Glossary]]**

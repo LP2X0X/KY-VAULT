@@ -1,0 +1,1 @@
+- The integration branch is where you bring together all the different tasks you worked on in other branches.

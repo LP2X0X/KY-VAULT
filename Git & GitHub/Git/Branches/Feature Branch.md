@@ -1,0 +1,1 @@
+Other branches are often referred to as “feature” (or "Topic") branches — essentially branches that serve to introduce one thing. These branches would serve to add a new feature, or fix a bug, or add and improve documentation. Essentially, they are one and done — for every separate task, there would be a different feature branch.

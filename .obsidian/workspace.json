@@ -8,43 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8cc63728f19fd3a",
+            "id": "74649f0b28ee8ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GitHub/Git/Branches/Branches.md",
+                "file": "Git & GitHub/Git/Git.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "6164a3deeb6cff04",
+            "id": "f1d7a20d571ee2a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GitHub/Git/Branches/Branches.md",
-                "mode": "preview",
+                "file": "Glossary/Glossary.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ec87807c96d7b715",
+            "id": "71503d4097085dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GitHub/Git/Branches/Commands/List all branches.md",
+                "file": "Git & GitHub/Git/Branches/Commands/Switch Branch.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2a5c17b8feffc6d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git & GitHub/Git/Branches/Integration Branch.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0d1bdc411d203e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git & GitHub/Git/Branches/Feature Branch.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git & GitHub/Git/Branches/Commands/List all branches.md",
+                "file": "Git & GitHub/Git/Branches/Feature Branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git & GitHub/Git/Branches/Commands/List all branches.md"
+                "file": "Git & GitHub/Git/Branches/Feature Branch.md"
               }
             }
           },
@@ -178,17 +202,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ec87807c96d7b715",
+  "active": "0d1bdc411d203e32",
   "lastOpenFiles": [
-    "Git & GitHub/Git/Branches/Branches.md",
-    "Git & GitHub/Git/Basic Commands/Get git status.md",
-    "Git & GitHub/Git/Basic Commands/Commit files.md",
-    "Git & GitHub/Git/Basic Commands/Git command structure.md",
-    "Git & GitHub/Git/Basic Commands/Add file to index.md",
-    "Git & GitHub/Git/Basic Commands/Basic Commands.md",
-    "Git & GitHub/Git/Branches/Commands/Create new branch.md",
-    "Git & GitHub/Git/Branches/Commands/List all branches.md",
+    "Git & GitHub/Git/Branches/Integration Branch.md",
+    "Git & GitHub/Git/Branches/Commands/Switch Branch.md",
     "Git & GitHub/Git/Branches/Branch - Definition.md",
-    "Untitled.md"
+    "Git & GitHub/Git/Branches/Branches.md",
+    "Glossary/Glossary.md",
+    "Glossary/Git Glossary/Commit.md",
+    "Git & GitHub/Git/Commit - Definition.md",
+    "Git & GitHub/Git/Parts of a Local Repo/Commit Object.md",
+    "Git & GitHub/Git/Basic Commands/Commit files.md",
+    "Git & GitHub/Git/Git.md"
   ]
 }

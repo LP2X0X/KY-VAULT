@@ -1,0 +1,1 @@
+A commit is a snapshot of the content you staged (that is, the files you added to the index).
