@@ -1,0 +1,11 @@
+- IDNO: Unique ID of PCB (Keys related to PCB Index DB).
+- PCBNAME: Name of PCB.
+- DATE: Date information of when the inspection started.
+- STIME: Time information of when the inspection started.
+- ETIME: Time information of when the inspection ended.
+- JobFileName: Job file path.
+- LogDB: Number of pad detail result DB.
+- BarCode: Information of PCB barcode.
+- Lane: Index of Lane.
+- TotalPADCnt: Total inspected pad count.
+- Lot: Information of Lot.

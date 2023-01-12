@@ -1,0 +1,2 @@
+- ID: Unique ID of Fiducial.
+- X, Y: X, Y Position of Fiducial [mm].

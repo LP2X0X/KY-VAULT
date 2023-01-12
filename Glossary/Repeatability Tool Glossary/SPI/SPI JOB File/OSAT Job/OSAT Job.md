@@ -10,10 +10,13 @@ type: folder_brief_live
 - **[[OSAT Job]]**
 	- [[CADS - DataBase]]
 	- [[Coplanarity - DataBase]]
+	- [[Fiducials - DataBase]]
+	- [[Fovs - DataBase]]
 	- [[JobFileInfo - DataBase]]
 	- [[PADs - DataBase]]
+	- [[PanelInfo - DataBase]]
 	- [[PCBInfo - DataBase]]
 	- [[PinNos - DataBase]]
-	- [[Shape - DataBase]]
+	- [[Shapes - DataBase]]
 
 %% End Waypoint %%

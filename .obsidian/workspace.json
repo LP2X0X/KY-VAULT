@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c79ac6eef0ee4f39",
+        "id": "e327650eea1730a6",
         "type": "tabs",
         "children": [
           {
-            "id": "299e2086166c7735",
+            "id": "a3a06272839b0fe4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -45,8 +45,8 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
-                "explainSearch": true,
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,17 +146,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "299e2086166c7735",
+  "active": "a3a06272839b0fe4",
   "lastOpenFiles": [
-    "Glossary/Repeatability Tool Glossary/OSAT Job/Shape - DataBase.md",
-    "Glossary/Repeatability Tool Glossary/OSAT Job/PinNos - DataBase.md",
-    "Glossary/Repeatability Tool Glossary/OSAT Job/PCBInfo - DataBase.md",
-    "Glossary/Repeatability Tool Glossary/Normal Job/PCBInfo - DataBase.md",
-    "Glossary/Repeatability Tool Glossary/OSAT Job/JobFileInfo - DataBase.md",
-    "Glossary/Repeatability Tool Glossary/OSAT Job/Coplanarity - DataBase.md",
-    "Glossary/Repeatability Tool Glossary/Normal Job/Coplanarity - DataBase.md",
-    "Glossary/Repeatability Tool Glossary/OSAT Job/PADs - DataBase.md",
-    "Glossary/Repeatability Tool Glossary/OSAT Job/CADS - DataBase.md",
-    "Related Link/Related Link.md"
+    "Glossary/Repeatability Tool Glossary/SPI/SPI Result DB/PCB Index DB/PCBRESULT - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI Result DB/Pad Detail DB/PADResult - Database.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI Result DB/PCB Index DB/PCB Index DB.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI Result DB/Pad Detail DB/Pad Detail DB.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI Result DB/SPI Result DB.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/FOV - DataBase.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/Normal Job.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/OSAT Job/OSAT Job.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/SPI JOB File.md",
+    "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/OSAT Job/Shapes - DataBase.md"
   ]
 }

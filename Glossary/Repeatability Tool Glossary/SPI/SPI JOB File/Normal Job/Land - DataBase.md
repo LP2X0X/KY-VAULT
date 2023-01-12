@@ -1,10 +1,12 @@
 - ID: Unique ID of pad.
 - Exec: To inspect pad or not.
 - Step: Which FOV step the pad belongs to.
+- X, Y: X, Y position from PCB top left [mm].
 - ShapeID: Shape of pad Linked with ID in shape table.
 - PartNumber: Component name of pad.
 - Etc1: Part name of pad.
 - Etc2: Array Number.
 - CompArrayNo: Panel Number.
+- RDegree: Pad Degree.
 - PinNumber: Pin number of pad of component.
 - CompPackage: Package name of pad.

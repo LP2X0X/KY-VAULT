@@ -1,0 +1,7 @@
+- FovNo: To inspect FOV Number with PCB.
+- Left: Left position of FOV.
+- Top: Top position of FOV.
+- Right: Right position of FOV.
+- Bottom: Bottom position of FOV.
+- x: Center X position of FOV.
+- y: Center Y position of FOV.

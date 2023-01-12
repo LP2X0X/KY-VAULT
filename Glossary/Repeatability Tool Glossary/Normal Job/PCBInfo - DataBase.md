@@ -1,3 +1,0 @@
-- PCBName: Name of the PCB.
-- FovStepCnt: 	Optimize Fov Step Count.
-- PatternedJob: Is Pattern Job.

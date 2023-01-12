@@ -173,6 +173,22 @@
       "Glossary/Neural Network Glossary",
       "Glossary/System Architect Glossary",
       "Glossary/Miscellaneous Glossary"
+    ],
+    "Glossary/Repeatability Tool Glossary": [
+      "Glossary/Repeatability Tool Glossary/OSAT Job",
+      "Glossary/Repeatability Tool Glossary/Normal Job",
+      "Glossary/Repeatability Tool Glossary/Repeatability Tool Glossary.md",
+      "Glossary/Repeatability Tool Glossary/SPI"
+    ],
+    "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job": [
+      "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/Coplanarity - DataBase.md",
+      "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/FOV - DataBase.md",
+      "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/Fiducial - DataBase.md",
+      "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/JobFileInfo - DataBase.md",
+      "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/Land - DataBase.md",
+      "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/Normal Job.md",
+      "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/PCBInfo - DataBase.md",
+      "Glossary/Repeatability Tool Glossary/SPI/SPI JOB File/Normal Job/Shape - DataBase.md"
     ]
   },
   "actionBarOrder": {},

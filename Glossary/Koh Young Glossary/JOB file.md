@@ -1,0 +1,3 @@
+- It is called a "Job" file because it is a file that summarizes where, how, and in what order each model was inspected.
+- It has shape information to draw "PCB View".
+- It also contains settings for additional actions.

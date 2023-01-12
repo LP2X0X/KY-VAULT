@@ -1,5 +1,7 @@
 - PADID: Pad Index.
 - CADID: Cad Index.
-- PINID: Pin Index.	
+- PINID: Pin Index.
+- FIDID: Fiducial Index.
 - SHAPEID: Shape Index
+- PadGroupingID: Index of Group.
 - PanelGroupID: Index of Panel Group.

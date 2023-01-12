@@ -1,0 +1,15 @@
+- IDNO: Unique ID of PCB (Keys related to PCB Index DB).
+- PadID: Unique ID of Pad.
+- Step: Defined FOV number. 
+- ShapeID: Index of shape ID (Shape information defined in job file).
+- ComponentID: Component Name.
+- SizeX, SizeY: X, Y Size of Pad.
+- Volume: Measured value of Volume(%).
+- Height: Measured value of Height(um).
+- Area: Measured value of Area(%).
+- OffsetX, OffsetY: Measured value of Offset X, Y(mm).
+- RealVol: Measured value of real Volume(um^3).
+- RealArea: Measured value of real Area(um^2).
+- PinNumber: Pin number.
+- Array: Defined Array number.
+- Panel: Defined Panel number.

@@ -1,0 +1,8 @@
+- PCBName: Name of the PCB.
+- PCBWidth: Width of PCB in mm format.
+- PCBLength: Length of PCB in mm format.
+- SplitCol: Number of Arrays in PCB Column.
+- SplitRow: Number of Arrays in PCB Row.
+- FidMAX: Fiducial Max Count.
+- FovStepCnt: 	Optimize Fov Step Count.
+- PatternedJob: Is Pattern Job.

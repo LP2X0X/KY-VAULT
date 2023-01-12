@@ -12,6 +12,7 @@ type: folder_brief_live
 	- [[API]]
 	- [[Coplanarity]]
 	- [[FOV]]
+	- [[JOB file]]
 	- [[Land]]
 	- [[Output file]]
 	- [[SMD]]
